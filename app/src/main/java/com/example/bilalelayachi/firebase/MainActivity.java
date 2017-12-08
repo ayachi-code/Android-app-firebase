@@ -1,5 +1,6 @@
 package com.example.bilalelayachi.firebase;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -60,6 +61,8 @@ public class MainActivity extends AppCompatActivity {
                 hey.child("naam").setValue(a_naam);
                 hey.child("hobby").setValue(a_hobby);
 
+
+                //Intent intent = new Intent(MainActivity.this,);
 
 
 
