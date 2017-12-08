@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "824870064099",
+    "firebase_url": "https://fir-testbilal.firebaseio.com",
+    "project_id": "fir-testbilal",
+    "storage_bucket": "fir-testbilal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824870064099:android:952386f73f32d256",
+        "android_client_info": {
+          "package_name": "com.example.bilalelayachi.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824870064099-f61ln70q7jmfd3jbn7b2ngbujglo984v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0ajWzjzCPYiB74vD0tgOY3JmE0Wml4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
