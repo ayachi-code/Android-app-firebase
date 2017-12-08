@@ -62,7 +62,8 @@ public class MainActivity extends AppCompatActivity {
                 hey.child("hobby").setValue(a_hobby);
 
 
-                //Intent intent = new Intent(MainActivity.this,);
+                Intent intent = new Intent(MainActivity.this,Main2Activity.class);
+                startActivity(intent);
 
 
 
